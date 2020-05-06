@@ -5,5 +5,5 @@ In this project, we made a waterfall glyph composition using a Tang Dynasty poem
 
 This project utilized two machine learning models - one called GlyphGAN, the other called ShapeMatchingGAN. We used the GlyphGAN model to generate glyphs of the poem, and then used ShapeMatchingGAN to style the generated composition with a waterfall image.
 
-<img src="/" width="50%" >
-<img src="/" width="50%" >
+<img src="https://github.com/viztopia/material-of-language/blob/master/Final/img/calligraphy.png" width="50%" >
+<img src="https://github.com/viztopia/material-of-language/blob/master/Final/img/waterfall.png" width="50%" >
